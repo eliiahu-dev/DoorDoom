@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a188ac33f5cd4764b98c5d0b6cf7933f, type: 3}
+  m_Name: GameSettingsSO
+  m_EditorClassIdentifier: 
+  settings:
+  - m_ID: 1
+    m_Name: D
+    m_Depth: 0
+    key: D
+    value: DEnemy
+    settingElementType: 2
+    enabled: 1
+  - m_ID: 2
+    m_Name: C
+    m_Depth: 0
+    key: C
+    value: "\u0421Enemy"
+    settingElementType: 2
+    enabled: 1
+  - m_ID: 3
+    m_Name: B
+    m_Depth: 0
+    key: B
+    value: BEnemy
+    settingElementType: 2
+    enabled: 1
+  - m_ID: 4
+    m_Name: A
+    m_Depth: 0
+    key: A
+    value: AEnemy
+    settingElementType: 2
+    enabled: 1
+  - m_ID: 5
+    m_Name: Green
+    m_Depth: 0
+    key: Green
+    value: GreenMate
+    settingElementType: 2
+    enabled: 1
+  - m_ID: 6
+    m_Name: Aquamarine
+    m_Depth: 0
+    key: Aquamarine
+    value: AquamarineMate
+    settingElementType: 2
+    enabled: 1
+  - m_ID: 7
+    m_Name: Blue
+    m_Depth: 0
+    key: Blue
+    value: BlueMate
+    settingElementType: 2
+    enabled: 1
+  - m_ID: 8
+    m_Name: Purple
+    m_Depth: 0
+    key: Purple
+    value: PurpleMate
+    settingElementType: 2
+    enabled: 1
+  - m_ID: 9
+    m_Name: Pink
+    m_Depth: 0
+    key: Pink
+    value: PinkMate
+    settingElementType: 2
+    enabled: 1
+  - m_ID: 10
+    m_Name: Ruby
+    m_Depth: 0
+    key: Ruby
+    value: RubyMate
+    settingElementType: 2
+    enabled: 1
+  - m_ID: 11
+    m_Name: Brown
+    m_Depth: 0
+    key: Brown
+    value: BrownMate
+    settingElementType: 2
+    enabled: 1
+  - m_ID: 12
+    m_Name: Orange
+    m_Depth: 0
+    key: Orange
+    value: OrangeMate
+    settingElementType: 2
+    enabled: 1
+  - m_ID: 13
+    m_Name: Yellow
+    m_Depth: 0
+    key: Yellow
+    value: YellowMate
+    settingElementType: 2
+    enabled: 1
+  - m_ID: 14
+    m_Name: Red
+    m_Depth: 0
+    key: Red
+    value: RedMate
+    settingElementType: 2
+    enabled: 1
